@@ -1,7 +1,7 @@
 # MachineLearning
 ## **혼자 공부하는 머신러닝**(박해선) Study
 
-* **Ch.2 데이터 다루기**
+* [**Ch.2 데이터 다루기**](https://github.com/inandout-kr/MachineLearning/blob/main/Ch2_and_3.ipynb)
   * Train set & Test set
     *   지도학습, 비지도학습
     *   Train set & Test set
@@ -13,7 +13,7 @@
     * Sklearn으로 Train set과 Test set 구분(train_test_split)
     * 전처리 데이터를 이용한 모델 훈련
     * 스케일이 다른 특성 처리
-* **Ch.3 회귀 알고리즘과 모델 규제**
+* [**Ch.3 회귀 알고리즘과 모델 규제**](https://github.com/inandout-kr/MachineLearning/blob/main/Ch2_and_3.ipynb)
   * k-최근접 이웃 회귀
     * k-최근접 이웃 회귀
     * 결정계수(R^2)
