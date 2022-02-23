@@ -1,7 +1,7 @@
 # MachineLearning
 ## **혼자 공부하는 머신러닝**(박해선) Study
 
-* [**Ch.2 데이터 다루기**](https://github.com/inandout-kr/MachineLearning/blob/main/Ch2_and_3.ipynb)
+* [**Ch.2 데이터 다루기**](https://github.com/inandout-kr/MachineLearning/blob/main/Ch_2_and_3_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC_k%EC%B5%9C%EA%B7%BC%EC%A0%91%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.ipynb)
   * Train set & Test set
     *   지도학습, 비지도학습
     *   Train set & Test set
@@ -13,7 +13,7 @@
     * Sklearn으로 Train set과 Test set 구분(train_test_split)
     * 전처리 데이터를 이용한 모델 훈련
     * 스케일이 다른 특성 처리
-* [**Ch.3 회귀 알고리즘과 모델 규제**](https://github.com/inandout-kr/MachineLearning/blob/main/Ch2_and_3.ipynb)
+* [**Ch.3 회귀 알고리즘과 모델 규제**](https://github.com/inandout-kr/MachineLearning/blob/main/Ch_2_and_3_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC_k%EC%B5%9C%EA%B7%BC%EC%A0%91%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.ipynb)
   * k-최근접 이웃 회귀
     * k-최근접 이웃 회귀
     * 결정계수(R^2)
